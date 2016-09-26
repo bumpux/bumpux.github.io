@@ -3,9 +3,9 @@
 title: "Greg Bumpus"
 description: ""
 logo: bumpux-logo-120-120.png
-teaser: # 400x250 px default teaser image used in image archive grid
+teaser: 400x250.gif #400x250 px default teaser image used in image archive grid
 locale: en
-url:
+url:    # bumpux.github.io
 feed:
   path: atom.xml
 
@@ -38,6 +38,7 @@ owner:
 
 
 include:
+  - _pages
   - .htaccess
 exclude:
   - "*.less"
