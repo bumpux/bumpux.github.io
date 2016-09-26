@@ -1,12 +1,12 @@
 # Site navigation links
 
-- title:      Thing
-  url:        /thing/
+- title:      Posts
+  url:        /posts/
   excerpt:    "stuff and nonsense"
-  image:      # foo.gif
+  image:      400x250.gif
 
 - title:      Other Thing
   url:        /otherthing/
   excerpt:    "stuff and nonsense"
-  image:      # foo.gif
+  image:      400x250.gif
 
