@@ -1,6 +1,12 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
+- title:      Thing
+  url:        /thing/
+  excerpt:    "stuff and nonsense"
+  image:      # foo.gif
+
+- title:      Other Thing
+  url:        /otherthing/
+  excerpt:    "stuff and nonsense"
+  image:      # foo.gif
+
