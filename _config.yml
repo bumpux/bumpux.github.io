@@ -5,7 +5,10 @@ description: ""
 logo: bumpux-logo-120-120.png
 teaser: 400x250.gif #400x250 px default teaser image used in image archive grid
 locale: en
-url:    https://bumpux.github.io # over-ride this in _config-local.yml and script it in _run.sh
+
+# over-ride this in _config-local.yml and script it in _run.sh
+url:    https://bumpux.github.io 
+
 baseurl: # see https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/
 feed:
   path: atom.xml
@@ -27,13 +30,13 @@ gems:
 
 # Site owner
 owner:
-  name:
-  email:
-  twitter:
+  name:  Greg Bumpus
+  email: bumpux@me.com
+  twitter: bumpux
   google:
     ad-client:
     ad-slot:
-  bio:
+  bio:  
   avatar: bio-photo.jpg # 160x160 px image for author byline
   disqus-shortname: bumpux
 
