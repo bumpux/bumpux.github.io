@@ -1,4 +1,4 @@
-# Bumpux here.
+# Bumpux here
 
 I'm adapting Skinny Bones for my Github Pages. Read more from the original readme below
 
